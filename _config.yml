@@ -1,0 +1,11 @@
+title: Hoops-Hawaii
+description: Tool for helping UH students find basketball courts
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-tactile
+github:
+  is_project_page: true
+  repository_url: https://hoops-hawaii.github.io/
+gems:
+  
+jekyll-mentions
