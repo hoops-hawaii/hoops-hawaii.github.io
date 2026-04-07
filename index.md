@@ -45,12 +45,9 @@ Administrators are responsible for managing court-related information. This incl
 - From there, users log in through the `Log In Page` or register through the `Sign Up Page`
 - Once logged in, users are directed to the `List Courts Page`, which serves as the central hub for discovering available basketball courts where they can find detailed information about each court
 - When they find a court to play at they may want to find some other people to play with so they go to the `Looking For Team Page` to connect with others in the area interested in playing
-- To look more appealing to these other players the user might edit their profile to seem more interesting
+- To look more appealing to these other players the user might edit their `Profile` to seem more interesting
 
 # Milestone 1
 
 [M1 Project page](https://github.com/orgs/hoops-hawaii/projects/2)
 <img src="images/Screenshot 2026-04-06 at 22.23.23.png">
-
-# Deployment 
-
