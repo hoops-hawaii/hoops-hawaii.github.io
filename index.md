@@ -1,5 +1,12 @@
 # Hoops Hawaii
 
+## Memebers
+
+- Coby Preza
+- Enoch Pangaribuan
+- Jacob Maier
+- Dexter Chung
+
 ## The problem
 
 There are some people who have a passion for basketball and want to explore new courts. When looking for courts on a regular map application, they are not given information about who is there, the condition of the court, which courts are present and recent news about the area.
