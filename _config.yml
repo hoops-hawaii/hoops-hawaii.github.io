@@ -8,4 +8,4 @@ github:
   repository_url: https://hoops-hawaii.github.io/
 gems:
   
-jekyll-mentions
+ - jekyll-mentions
