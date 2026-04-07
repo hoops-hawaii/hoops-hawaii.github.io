@@ -14,3 +14,7 @@ There are some people who have a passion for basketball and want to explore new 
 ## The Solution
 
 This project provides a database for these passionate basketball players to use when finding a court and people to play basketball with. There they will get the answers they are looking for when finding their dream place to play. 
+
+## Approach
+
+Hoops Hawaii will only be comprised of one role: user. 
