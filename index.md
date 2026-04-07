@@ -51,4 +51,5 @@ Administrators are responsible for managing court-related information. This incl
 # Milestone 1
 
 [M1 Project page](https://github.com/orgs/hoops-hawaii/projects/2)
+
 <img src="images/Grp4 init Projects.png">
