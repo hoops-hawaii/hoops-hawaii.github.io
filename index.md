@@ -18,3 +18,5 @@ This project provides a database for these passionate basketball players to use 
 ## Approach
 
 Hoops Hawaii will only be comprised of one role: user. 
+
+## Mockup Page Ideas
