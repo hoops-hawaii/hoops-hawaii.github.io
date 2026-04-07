@@ -11,6 +11,7 @@
 [Contract Link](https://docs.google.com/document/d/1_U7_7owckecTq5K04KJOTmJ5TSI1bj0xP_n2OeRlH_s/edit?tab=t.0) 
 
 # Overview
+
 ## The Problem 
 
 There are many individuals who have a strong passion for basketball. Of those individuals there are also many who have a desire to discover and play on new courts and with new people. However, existing map-based applications provide only basic location information and fail to address the specific needs of a baller. A true baller wants to know the condition of the court, how many people are present at the court, the type of people who play at the court, etc. No one wants to arrive at a court disappointed to see that there’s no one there, the court is dirty, and the lights went out in the area. 
