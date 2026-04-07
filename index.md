@@ -6,7 +6,9 @@
 - Enoch Pangaribuan
 - Jacob Maier
 #Team Contract
-[Contract Link] (https://docs.google.com/document/d/1_U7_7owckecTq5K04KJOTmJ5TSI1bj0xP_n2OeRlH_s/edit?tab=t.0) 
+
+[Contract Link](https://docs.google.com/document/d/1_U7_7owckecTq5K04KJOTmJ5TSI1bj0xP_n2OeRlH_s/edit?tab=t.0) 
+
 # Overview
 ## The Problem 
 
