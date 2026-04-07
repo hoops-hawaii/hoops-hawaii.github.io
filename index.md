@@ -20,3 +20,5 @@ This project provides a database for these passionate basketball players to use 
 Hoops Hawaii will only be comprised of one role: user. 
 
 ## Mockup Page Ideas
+
+##
