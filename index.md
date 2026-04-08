@@ -43,7 +43,7 @@ Administrators are responsible for managing court-related information. This incl
 
 # List Courts Mockup Page
 
-<img src="images/listcourtsmockup.png">
+<img src="images/listcourts.png">
 
 # User Experience
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
