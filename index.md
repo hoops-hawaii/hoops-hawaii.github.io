@@ -1,10 +1,10 @@
 # Hoops-Hawaii
 
 # Team Members
-- Coby Preza
-- Dexter Chung
-- Enoch Pangaribuan
-- Jacob Maier
+- [Coby Preza](https://cobypreza.github.io/)
+- [Dexter Chung](https://dexter-chung.github.io/)
+- [Enoch Pangaribuan](https://enochpangaribuan.github.io/)
+- [Jacob Maier](https://jacobamaier.github.io/)
 
 # Team Contract
 
