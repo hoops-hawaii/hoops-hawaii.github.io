@@ -51,13 +51,16 @@ Administrators are responsible for managing court-related information. This incl
 <img src="images/sign-up-page.png">
 
 ## Mockup List Court Page
-<img src="images/listcourts.png">
+<img src="images/listcourtsmockup.png">
 
 ## Mockup Find Court Page
+<img src="images/findcourtsmockup.png">
 
 ## Mockup Find Teammates Page
+<img src="images/findteammockup.png">
 
 ## Mockup Profile Page
+<img src="images/profilemockup.png">
 
 # User Experience
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
@@ -76,4 +79,4 @@ Administrators are responsible for managing court-related information. This incl
 
 # Deployment
 
-[Link](https://hoops-hawaii-nextjs.vercel.app/)
+[Hoops Hawaii](https://hoops-hawaii-nextjs.vercel.app/)
