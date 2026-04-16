@@ -41,8 +41,6 @@ Administrators are responsible for managing court-related information. This incl
 - Profile Page: Allows users to make personalized hooper profiles
 - Create Court Page: Allows only admins to make additional courts to the database
 
-# List Courts Mockup Page
-
 ## Landing Page
 <img src="images/landing-page.png">
 
@@ -52,8 +50,14 @@ Administrators are responsible for managing court-related information. This incl
 ## Sign Up Page
 <img src="images/sign-up-page.png">
 
-## Court List
+## Mockup List Court Page
 <img src="images/listcourts.png">
+
+## Mockup Find Court Page
+
+## Mockup Find Teammates Page
+
+## Mockup Profile Page
 
 # User Experience
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
