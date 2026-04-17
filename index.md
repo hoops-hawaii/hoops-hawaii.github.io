@@ -42,13 +42,16 @@ Administrators are responsible for managing court-related information. This incl
 - Create Court Page: Allows only admins to make additional courts to the database
 
 ## Landing Page
-<img src="images/landing-page.png">
+<img src="images/landing-page-2.png">
 
 ## Sign In Page
-<img src="images/sign-in-page.png">
+<img src="images/sign-in-page-2.png">
 
 ## Sign Up Page
-<img src="images/sign-up-page.png">
+<img src="images/sign-up-page-2.png">
+
+## Sign Out Page
+<img src="images/sign-out-page-2.png">
 
 ## Mockup List Court Page
 <img src="images/listcourtsmockup.png">
