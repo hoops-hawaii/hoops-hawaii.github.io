@@ -69,13 +69,13 @@ Administrators are responsible for managing court-related information. This incl
 <img src="images/team-teammates-page.png">
 
 ## View Profile
-<img src="profile-view-page.png">
+<img src="images/profile-view-page.png">
 
 ## Update Profile
-<img src="profile-update-page.png">
+<img src="images/profile-update-page.png">
 
 ## View Hoopers
-<img src="hoopers-view-page.png">
+<img src="images/hoopers-view-page.png">
 
 # User Experience
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
