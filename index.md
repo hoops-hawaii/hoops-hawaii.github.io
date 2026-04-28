@@ -92,6 +92,9 @@ Administrators are responsible for managing court-related information. This incl
 
 [M2 Project page](https://github.com/orgs/hoops-hawaii/projects/9)
 
+# Milestone 3
+[M3 Project page](https://github.com/orgs/hoops-hawaii/projects/10)
+
 # Deployment
 
 [Hoops Hawaii](https://hoops-hawaii-nextjs.vercel.app/)
