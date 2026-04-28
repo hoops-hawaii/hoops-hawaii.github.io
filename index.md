@@ -59,12 +59,6 @@ Administrators are responsible for managing court-related information. This incl
 ## Mockup Find Court Page
 <img src="images/findcourtsmockup.png">
 
-## Mockup Find Teammates Page
-<img src="images/findteammockup.png">
-
-## Mockup Profile Page
-<img src="images/profilemockup.png">
-
 ## Team List Page
 <img src="images/team-view-page.png">
 
@@ -73,6 +67,15 @@ Administrators are responsible for managing court-related information. This incl
 
 ## View Teammates Page
 <img src="images/team-teammates-page.png">
+
+## View Profile
+<img src="profile-view-page.png">
+
+## Update Profile
+<img src="profile-update-page.png">
+
+## View Hoopers
+<img src="hoopers-view-page.png">
 
 # User Experience
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
