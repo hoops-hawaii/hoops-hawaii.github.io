@@ -94,9 +94,9 @@ Here is the [link](https://github.com/hoops-hawaii/hoops-hawaii-nextjs) to our r
 `npm install`
 
 ## Setting Up Database
-`npx prisma generate`
-`npx prisma migrate dev`
-`npm run seed`
+- `npx prisma generate`
+- `npx prisma migrate dev`
+- `npm run seed`
 
 ## Run Development Server
 
