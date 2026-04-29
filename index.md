@@ -77,7 +77,7 @@ Administrators are responsible for managing court-related information. This incl
 ## View Hoopers
 <img src="images/hoopers-view-page.png">
 
-# User Experience
+# User Guide
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
 - From there, users log in through the `Log In Page` or register through the `Sign Up Page`
 - Once logged in, users are directed to the `List Courts Page`, which serves as the central hub for discovering available basketball courts where they can find detailed information about each court
