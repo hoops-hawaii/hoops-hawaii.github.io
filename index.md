@@ -53,8 +53,8 @@ Administrators are responsible for managing court-related information. This incl
 ## Sign Out Page
 <img src="images/sign-out-page-2.png">
 
-## Mockup List Court Page
-<img src="images/listcourtsmockup.png">
+## List Court Page
+<img src="images/courts-view-page.png">
 
 ## Mockup Find Court Page
 <img src="images/findcourtsmockup.png">
