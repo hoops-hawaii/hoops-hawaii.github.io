@@ -84,6 +84,26 @@ Administrators are responsible for managing court-related information. This incl
 - When they find a court to play at they may want to find some other people to play with so they go to the `Looking For Team Page` to connect with others in the area interested in playing
 - To look more appealing to these other players the user might edit their `Profile` to seem more interesting
 
+# Developer Guide
+
+
+## Clone Respository
+Here is the [link](https://github.com/hoops-hawaii/hoops-hawaii-nextjs) to our respository
+
+## Installing Dependencies
+`npm install`
+
+## Setting Up Database
+`npx prisma generate`
+`npx prisma migrate dev`
+`npm run seed`
+
+## Run Development Server
+
+`npm run dev`
+
+Once the command is entered it can be seen at [http://localhost:3000](http://localhost:3000)
+
 # Milestone 1
 
 [M1 Project page](https://github.com/orgs/hoops-hawaii/projects/3/views/6)
