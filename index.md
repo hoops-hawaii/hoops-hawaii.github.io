@@ -5,6 +5,9 @@
 - [Enoch Pangaribuan](https://enochpangaribuan.github.io/)
 - [Jacob Maier](https://jacobamaier.github.io/)
 
+# Organization
+[Organization Link](https://github.com/hoops-hawaii)
+
 # Team Contract
 
 [Contract Link](https://docs.google.com/document/d/1_U7_7owckecTq5K04KJOTmJ5TSI1bj0xP_n2OeRlH_s/edit?tab=t.0)
