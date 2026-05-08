@@ -7,7 +7,22 @@
 
 # Team Contract
 
-[Contract Link](https://docs.google.com/document/d/1_U7_7owckecTq5K04KJOTmJ5TSI1bj0xP_n2OeRlH_s/edit?tab=t.0) 
+[Contract Link](https://docs.google.com/document/d/1_U7_7owckecTq5K04KJOTmJ5TSI1bj0xP_n2OeRlH_s/edit?tab=t.0)
+
+# Milestone 1
+
+[M1 Project page](https://github.com/orgs/hoops-hawaii/projects/3/views/6)
+
+# Milestone 2
+
+[M2 Project page](https://github.com/orgs/hoops-hawaii/projects/9)
+
+# Milestone 3
+[M3 Project page](https://github.com/orgs/hoops-hawaii/projects/10)
+
+# Deployment
+
+[Hoops Hawaii](https://hoops-hawaii-nextjs.vercel.app/)
 
 # Overview
 
@@ -33,51 +48,51 @@ Administrators are responsible for managing court-related information. This incl
 
 ## Landing Page
 This is the page that the users are welcomed to when they first click the link to our website.
-<img src="images/landing-page-2.png">
+<img src="images/landingpage-3.png">
 
 ## Sign In Page
 Users are asked to sign in to their account.
-<img src="images/sign-in-page-2.png">
+<img src="images/signinpage-3.png">
 
 ## Sign Up Page
 If the user does not have an account, they may sign up through this page.
-<img src="images/sign-up-page-2.png">
+<img src="images/signuppage-3.png">
 
 ## Sign Out Page
 This is what it looks like to sign out of your account.
-<img src="images/sign-out-page-2.png">
+<img src="images/signoutpage-3.png">
 
 ## My Courts Page
 This is where your saved courts go. This is also where you can check into your court and save your primary Home Court.
-<img src="images/courts-view-page.png">
+<img src="images/mycourtspage-3.png">
 
-## Mockup Find Court Page
+## Find Courts Page
 This is where you can find courts you want to go to and save them to add to your My Courts Page.
-<img src="images/findcourtsmockup.png">
+<img src="images/findcourtspage-3.png">
 
-## Team List Page
+## Look For Team Page
 This is where you can go to find other players to team up with.
-<img src="images/team-view-page.png">
+<img src="images/lookforteampage-3.png">
 
 ## Team Create Page
 This is the form to create your team.
-<img src="images/team-create-page.png">
+<img src="images/createteampage-3.png">
 
 ## View Teammates Page
 This is the form where you can see all the other people who joined your team.
-<img src="images/team-teammates-page.png">
+<img src="images/viewteampage-3.png">
 
-## View Hoopers
-This is where you can view your other hooper friends.
-<img src="images/hoopers-view-page.png">
+## All Hoopers
+This is where you can find other hoopers across the site.
+<img src="images/allhooperspage-3.png">
 
 ## View Profile
 This is your profile page.
-<img src="images/profile-view-page.png">
+<img src="images/profilepage-3.png">
 
-## Update Profile
+## Edit Profile
 This is a form to update your profile page.
-<img src="images/profile-update-page.png">
+<img src="images/editprofilepage-3.png">
 
 # User Guide
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
@@ -112,18 +127,3 @@ Here is the [link](https://github.com/hoops-hawaii/hoops-hawaii-nextjs) to our r
 `npm run dev`
 
 Once the command is entered it can be seen at [http://localhost:3000](http://localhost:3000)
-
-# Milestone 1
-
-[M1 Project page](https://github.com/orgs/hoops-hawaii/projects/3/views/6)
-
-# Milestone 2
-
-[M2 Project page](https://github.com/orgs/hoops-hawaii/projects/9)
-
-# Milestone 3
-[M3 Project page](https://github.com/orgs/hoops-hawaii/projects/10)
-
-# Deployment
-
-[Hoops Hawaii](https://hoops-hawaii-nextjs.vercel.app/)
