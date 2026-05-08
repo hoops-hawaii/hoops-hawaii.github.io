@@ -31,50 +31,53 @@ Regular users will be able to browse and explore the court database to explore p
 
 Administrators are responsible for managing court-related information. This includes the ability to add courts, update existing court details, and remove outdated courts. By enabling these operations, this ensures that the database is up-to-date and well-kept for the regular user to enjoy.
 
-# Intend to Implement
-- Landing Page: When the user clicks on our link, they are welcomed to this page
-- List Courts Page: Court database of the UH Manoa area included with information
-- Sign Up Page: Allows users to register a new user
-- Log In Page: Allows users to sign in to the user you created 
-- Looking For Team Page: Allows users to make teams with each other
-- Profile Page: Allows users to make personalized hooper profiles
-- Create Court Page: Allows only admins to make additional courts to the database
-
 ## Landing Page
+This is the page that the users are welcomed to when they first click the link to our website.
 <img src="images/landing-page-2.png">
 
 ## Sign In Page
+Users are asked to sign in to their account.
 <img src="images/sign-in-page-2.png">
 
 ## Sign Up Page
+If the user does not have an account, they may sign up through this page.
 <img src="images/sign-up-page-2.png">
 
 ## Sign Out Page
+This is what it looks like to sign out of your account.
 <img src="images/sign-out-page-2.png">
 
-## List Court Page
+## My Courts Page
+This is where your saved courts go. This is also where you can check into your court and save your primary Home Court.
 <img src="images/courts-view-page.png">
 
 ## Mockup Find Court Page
+This is where you can find courts you want to go to and save them to add to your My Courts Page.
 <img src="images/findcourtsmockup.png">
 
 ## Team List Page
+This is where you can go to find other players to team up with.
 <img src="images/team-view-page.png">
 
 ## Team Create Page
+This is the form to create your team.
 <img src="images/team-create-page.png">
 
 ## View Teammates Page
+This is the form where you can see all the other people who joined your team.
 <img src="images/team-teammates-page.png">
 
+## View Hoopers
+This is where you can view your other hooper friends.
+<img src="images/hoopers-view-page.png">
+
 ## View Profile
+This is your profile page.
 <img src="images/profile-view-page.png">
 
 ## Update Profile
+This is a form to update your profile page.
 <img src="images/profile-update-page.png">
-
-## View Hoopers
-<img src="images/hoopers-view-page.png">
 
 # User Guide
 - Users begin their experience on the `Landing Page`, where they are introduced to the application and its purpose
@@ -82,6 +85,13 @@ Administrators are responsible for managing court-related information. This incl
 - Once logged in, users are directed to the `List Courts Page`, which serves as the central hub for discovering available basketball courts where they can find detailed information about each court
 - When they find a court to play at they may want to find some other people to play with so they go to the `Looking For Team Page` to connect with others in the area interested in playing
 - To look more appealing to these other players the user might edit their `Profile` to seem more interesting
+
+# User Feedback
+1. The page looks really nice. I play basketball myself, and think it's a great idea. I do think there should be a rating system though, it gives hoopers a better insight on how playing at the courts is actually like.
+2. The website UI is nice, I do think there can be more done to the All Hoopers and Look For Team pages, it looks kind of bland. More pictures might be a nice addition as well to give something for users to look at.
+3. I think the logo you guys made is super cool. I think the font could be changed, it does look kind of bland and almost default-y in a way.
+4. Maybe add a chat system later. I find it cool that you can connect, but if you are looking to join a team, it would be cool if you can talk to them instead of going in blindly.
+5. I would eventually add a filter for the My Courts page. I can imagine that there might be situations where someone has a lot of courts that they go to, whether it be often or sometimes. If they end up having too much, then they would just have to keep scrolling until they get to the court they want to go to. 
 
 # Developer Guide
 
