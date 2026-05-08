@@ -1,4 +1,4 @@
-![ci-badge](https://github.com/Hoops-Hawai'i/hoops-hawaii-nextjs/workflows/hoops-hawaii/badge.svg)
+![ci-badge](https://github.com/hoops-hawaii/hoops-hawaii-nextjs/workflows/hoops-hawaii/badge.svg)
 # Team Members
 - [Coby Preza](https://cobypreza.github.io/)
 - [Dexter Chung](https://dexter-chung.github.io/)
