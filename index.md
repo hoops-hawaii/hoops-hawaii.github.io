@@ -89,6 +89,10 @@ This is the form where you can see all the other people who joined your team.
 This is where you can find other hoopers across the site.
 <img src="images/allhooperspage-3.png">
 
+## Add Court Page
+This is a page only visible to admins. It allows them to add courts to the database.
+<img src="images/addcourtpage-3.png">
+
 ## View Profile
 This is your profile page.
 <img src="images/profilepage-3.png">
